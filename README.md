@@ -1,5 +1,5 @@
 # Quantum-Biscuit 
-<img src="new_Images/dhbw.png" width=200/>
+<img src="Data/logo_dhbw_st.svg" width=200/>
 Assignment in the elective subject Quantum Computer at the DHBW Stuttgart.
 
 Development of a quantum biscuit tester in reference to „Elitzur–Vaidman bomb tester“
