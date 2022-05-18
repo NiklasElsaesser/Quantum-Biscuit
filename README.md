@@ -6,4 +6,6 @@ Changed „quantum bomb“ to „quantum biscuit“ due to the current political
 
 Quantum-Biscuit-Optimized [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NiklasElsaesser/Quantum-Biscuit/HEAD?labpath=Quantum-Biscuit-Optimization.ipynb)
 
-This Project was created in collaboration between Freddy (https://github.com/FreddyTF), Patrick (https://github.com/Patr1ick) and me. 
+This Project was created in collaboration between Freddy (https://github.com/FreddyTF), Patrick (https://github.com/Patr1ick) and me.
+
+This Repository displays my Contribution in detail, for the complete Notebook -> visit Freddys GitHub (https://github.com/FreddyTF/QuantumBiscuit)
